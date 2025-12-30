@@ -19,8 +19,8 @@
 ### Установка
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/Alex55534/voice-assistant.git
-cd voice-assistant
+git clone https://https://github.com/Alex55534/voice-assistant-python.git
+cd voice-assistant-python
 
 # Установить зависимости
 pip install -r requirements.txt
