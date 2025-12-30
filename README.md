@@ -25,20 +25,20 @@
 
 ### Управление приложениями
 - **"Открой браузер"** — Google Chrome
-- **"Запусти Steam"** — Steam клиент
+- **"Открой проводник"** — проводник
+- **"Откройи Steam"** — Steam клиент
 - **"Открой Telegram"** — мессенджер
 - **"Открой блокнот"** — текстовый редактор
-- **"Запусти Counter-Strike"** — CS:GO
+- **"Открой CS-GO"** — CS:GO
 - **"Открой Blender"** — 3D редактор
-- **"Включи VPN"** — AdGuard VPN
+- **"Открой VPN"** — AdGuard VPN
 
 ### Веб-сайты
-- **"Открой YouTube"** — видеохостинг
-- **"Покажи криптовалюту"** — TradingView графики
+- **"Открой криптовалюту"** — TradingView графики
 - **"Открой аниме"** — AnimeGo
 - **"Открой чат"** — DeepSeek Chat
 - **"Открой переводчик"** — Google Translate
-- **"Покажи биржу"** — BingX
+- **"Открой бин"** — BingX
 
  <img width="454" height="196" alt="image" src="https://github.com/user-attachments/assets/71dd57ce-1a0c-4467-ad80-324c14f6541f" />
 
