@@ -42,6 +42,15 @@
 
  <img width="454" height="196" alt="image" src="https://github.com/user-attachments/assets/71dd57ce-1a0c-4467-ad80-324c14f6541f" />
 
+ ## 👣 Автор
+
+**Шкурин Алексей Витальевич**  
+*Python разработчик
+
+- **GitHub**: (https://github.com/Alex55534)
+- **Telegram**: [@Kliso3373274](https://t.me/Kliso3373274)
+- **Email**: leonbarsia@yandex.ru
+
 
 ## 🚀 Быстрый старт
 
