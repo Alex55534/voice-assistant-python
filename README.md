@@ -22,5 +22,12 @@
 git clone https://https://github.com/Alex55534/voice-assistant-python.git
 cd voice-assistant-python
 
-# Установить зависимости
+# Установите зависимости
 pip install -r requirements.txt
+
+# Если возникают проблемы с PyAudio на Windows:
+# 1. Установите Microsoft Visual C++ Build Tools
+# 2. Или используйте: pip install pipwin && pipwin install pyaudio
+
+# На Ubuntu/Debian сначала установите системные пакеты:
+sudo apt-get install python3-pyaudio portaudio19-dev
