@@ -5,6 +5,33 @@ __pycache__/
 
 # C extensions
 *.so
+# Временные аудиофайлы (они создаются при работе)
+*.mp3
+*.wav
+*.ogg
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
 
 # Distribution / packaging
 .Python
