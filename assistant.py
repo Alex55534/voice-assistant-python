@@ -171,4 +171,3 @@ while True:
 cleanup_temp_files()
 print("Программа завершена")
 print("Отличная работа")
-print("Отличная работа")
